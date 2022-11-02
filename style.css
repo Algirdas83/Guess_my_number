@@ -117,3 +117,10 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+.losseGame {
+  background-color: red;
+}
+.wingGame {
+  background-color: ;
+}
